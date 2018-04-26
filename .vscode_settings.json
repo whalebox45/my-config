@@ -1,0 +1,13 @@
+{
+    "terminal.integrated.fontFamily": "Hack",
+    "rust.rustup": {
+        "nightlyToolchain": "nightly-x86_64-unknown-linux-gnu",
+        "toolchain": "stable-x86_64-unknown-linux-gnu"
+    },
+    "rust.mode": "rls",
+    "rust.rls": {
+        "useRustfmt": true
+    },
+    "rust-client.channel": "nighly",
+    "rust.racerPath": "$HOME/.cargo/bin/racer",
+}
